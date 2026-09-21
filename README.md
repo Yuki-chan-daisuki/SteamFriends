@@ -15,8 +15,8 @@
 
 
 ## Steam好友列表
-| Avatar                                                                            | Name       | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
-|:----------------------------------------------------------------------------------|:-----------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
-| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 2313489233 | [76561199383028695](https://steamcommunity.com/profiles/76561199383028695/) | ✅           | 2024-08-15 13:10:31 |                |          |
-| ![](https://avatars.steamstatic.com/acacec54c2cb39d998efbca9d09aa8295300b935.jpg) | 沃土予身       | [76561199382613296](https://steamcommunity.com/profiles/76561199382613296/) | ✅           | 2026-08-12 14:24:07 |                |          |
-| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | e.ry.93    | [76561198803338145](https://steamcommunity.com/profiles/76561198803338145/) | ✅           | 2026-08-31 10:44:43 |                |          |
+| Avatar                                                                            | Name       | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
+|:----------------------------------------------------------------------------------|:-----------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | e.ry.93    | [76561198803338145](https://steamcommunity.com/profiles/76561198803338145/) | ❌           | 2026-08-31 10:44:43 | 2026-09-21 12:01:10 |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 2313489233 | [76561199383028695](https://steamcommunity.com/profiles/76561199383028695/) | ✅           | 2024-08-15 13:10:31 |                     |          |
+| ![](https://avatars.steamstatic.com/acacec54c2cb39d998efbca9d09aa8295300b935.jpg) | 沃土予身       | [76561199382613296](https://steamcommunity.com/profiles/76561199382613296/) | ✅           | 2026-08-12 14:24:07 |                     |          |
